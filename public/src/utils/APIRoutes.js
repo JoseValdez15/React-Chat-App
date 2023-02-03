@@ -1,4 +1,4 @@
-export const host = "react-chat-app-hazel.vercel.app";
+export const host = "react-chat-2d2br06vl-josevaldez15.vercel.app";
 export const loginRoute = `${host}/api/auth/login`;
 export const registerRoute = `${host}/api/auth/register`;
 export const logoutRoute = `${host}/api/auth/logout`;
